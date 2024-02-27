@@ -1,0 +1,4 @@
+id|name|lecturer
+cse101|Intro to computing|Dr. Mahbub
+cse203|Data Structure|Md. Asif
+cse301|Compiler Design|Bijoy Arif

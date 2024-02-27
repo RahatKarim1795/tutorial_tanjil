@@ -1,0 +1,5 @@
+course|student_id|mark|grade
+cse101|1123|80|A
+cse101|2213|90|A+
+cse101|5223|84|A
+cse203|5223|50|D

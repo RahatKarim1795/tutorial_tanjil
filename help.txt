@@ -1,0 +1,13 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The objective is to reach the end of the cave. The map shows all the paths.
+The stars (*) denote the movable path.
+The dashes (-) denote walls.
+The (S) is the starting position.
+The (@) denotes your current position.
+The (F) denotes finishing line
+
+Move commands:
+Type north,south,east or west to move accordingly. Type show map to show the map again
+
+Type "help" for instructions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

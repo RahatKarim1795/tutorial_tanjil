@@ -1,0 +1,4 @@
+id|name|cgpa
+1123|Dave|3.0
+2213|Yakub|4.0
+5223|Tee|2.5
