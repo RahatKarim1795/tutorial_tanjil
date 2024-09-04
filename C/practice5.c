@@ -1,0 +1,1 @@
+// write a c program that will give the follo

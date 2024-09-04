@@ -83,3 +83,6 @@ def main():
         st_id = input("Input your id: ")
         co_id = input("Input course id: ")
         see_marks(st_id,co_id)
+
+floa = 1.2
+int(floa)

@@ -187,3 +187,7 @@ check = True
 # nested_list = [[1, 2, 3], [4, [5, 6]], [7, 8, 9], [9, 1, 2]]
 # result = flatten_list(nested_list)
 # print(result)
+
+# arr = [11,12,13,14,15]
+
+# print(arr[0])
